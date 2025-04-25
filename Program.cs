@@ -17,6 +17,10 @@ class TablaHash
         }
     }
 
+
+    //Línea de prueba para ejemplo de repositorio en GitHub
+
+
     // Función hash sencilla: suma los valores ASCII de los caracteres de la clave y aplica módulo
     private int FuncionHash(string clave)
     {
