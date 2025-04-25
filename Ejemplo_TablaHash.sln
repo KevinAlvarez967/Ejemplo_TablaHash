@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_TablaHash", "Ejemplo_TablaHash.csproj", "{E6AECDFA-19BD-48CF-94C0-591BC4C41BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6AECDFA-19BD-48CF-94C0-591BC4C41BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AECDFA-19BD-48CF-94C0-591BC4C41BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AECDFA-19BD-48CF-94C0-591BC4C41BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AECDFA-19BD-48CF-94C0-591BC4C41BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4883F128-46C0-4E2E-911E-772D0B6D32EE}
+	EndGlobalSection
+EndGlobal
